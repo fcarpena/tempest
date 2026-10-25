@@ -1,0 +1,16 @@
+<header class="site-header">
+  <div class="container header-inner">
+    <p class="site-title"><a href="{{ '/' | relative_url }}" rel="home">{{ site.title }}</a></p>
+    <button class="menu-toggle" aria-expanded="false" aria-controls="site-navigation">
+      <span class="menu-toggle-open">Menu</span><span class="menu-toggle-close">Close</span>
+    </button>
+    <nav id="site-navigation" class="main-navigation" aria-label="Main">
+      <ul>
+        {%- for item in site.data.navigation %}
+        {%- assign item_url = item.url | relative_url %}
+        <li><a href="{{ item_url }}"{% if page.url == item.url or item.url == '/project-updates/' and page.layout == 'post' %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </div>
+</header>

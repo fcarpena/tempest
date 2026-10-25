@@ -1,0 +1,18 @@
+<div class="person">
+  <img class="person-photo" src="{{ include.person.photo | prepend: '/assets/images/' | relative_url }}" alt="{{ include.person.name }}" loading="lazy">
+  <div class="person-info">
+    <p class="person-name">{% if include.person.url %}<a href="{{ include.person.url }}">{{ include.person.name }}</a>{% else %}{{ include.person.name }}{% endif %}</p>
+    {%- if include.person.position %}
+    <p>{{ include.person.position | join: '<br>' }}</p>
+    {%- endif %}
+    {%- if include.person.fields %}
+    <p>Research fields: {{ include.person.fields }}</p>
+    {%- endif %}
+    {%- if include.person.phd %}
+    <p>{{ include.person.phd }}</p>
+    {%- endif %}
+    {%- if include.person.bio %}
+    <p>{{ include.person.bio }}</p>
+    {%- endif %}
+  </div>
+</div>

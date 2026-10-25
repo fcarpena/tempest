@@ -1,0 +1,81 @@
+# Project team. Photos go in assets/images/.
+# Fields: name, url (optional), photo, position (list of lines), fields, phd, bio
+
+principal_investigator:
+  - name: Fenella Carpena
+    url: https://ocf.berkeley.edu/~fcarpena
+    photo: Fenella-Carpena.png
+    position:
+      - Associate Professor of Economics
+      - Oslo Business School
+      - Oslo Metropolitan University
+    fields: development economics, applied microeonomics
+    phd: PhD Economics, University of California, Berkeley, 2017
+
+co_principal_investigators:
+  - name: Arlan Brucal
+    url: https://sites.google.com/view/arlanbrucal/home
+    photo: Arlan-Brucal.jpg
+    position:
+      - Economist
+      - World Bank
+      - Finance, Competitiveness and Innovation Global Practice
+    fields: firm dynamics, industrial organization
+    phd: PhD Economics, University of Hawaiʻi, Manoa, 2016
+
+  - name: Simon Galle
+    url: https://www.ocf.berkeley.edu/~sgalle/
+    photo: Simon-Galle.jpg
+    position:
+      - Associate Professor
+      - Department of Economics
+      - BI Norwegian Business School
+    fields: international trade, development & growth, firm dynamics
+    phd: PhD Economics, University of California, Berkeley, 2016
+
+  - name: Maire Carroline Magante
+    url: https://www.ateneo.edu/soss/economics/faculty
+    photo: Maire-Magante.jpg
+    position:
+      - Assistant Professor
+      - Department of Economics
+      - Ateneo de Manila University
+    fields: labor, migration, urban, and development economics
+    phd: PhD Urban Studies and Regional Science, Gran Sasso Science Institute, 2020
+
+  - name: Anthony Sabarillo
+    url: https://sites.google.com/view/anthony-sabarillo/
+    photo: Anthony-Sabarillo.jpg
+    position:
+      - Assistant Professor
+      - University of the Philippines
+      - School of Economics
+    fields: international trade, public finance, environmental economics
+    phd: PhD Economics, University of the Philippines, 2022
+
+current_research_assistants:
+  - name: Jewelle Anne Lalunio, MA
+    photo: Jewelle-Lalunio.jpg
+    bio: Welle is a PhD candidate at the University of the Philippines School of Economics. She earned her bachelor’s and master’s degrees from the same institution.
+
+  - name: Rainier Mora, MA
+    url: https://www.ateneo.edu/soss/economics/faculty
+    photo: Rainier-Mora.jpg
+    bio: Rainier is a Lecturer of Economics at the Ateneo de Manila University in the Philippines. He obtained his Masters in Economics from the Ateneo de Manila University.
+
+  - name: Ma. Judy Ann Padillon, MA
+    photo: Judy-Ann-Padillon.jpg
+    bio: Judy is a PhD candidate at the University of the Philippines School of Economics, where she also earned her master’s degree. Her fields of interest include labor and macroeconomics.
+
+  - name: Janelle Tiu, MS
+    photo: Janelle-Tiu.jpg
+    bio: Janelle is a lecturer at the Carlos L. Tiu School of Economics, De La Salle University–Manila (DLSU). She earned her Bachelor and Master of Science in Economics from DLSU, and her Master of Science in Data Science from Liverpool Hope University, United Kingdom.
+
+previous_research_assistants:
+  - name: Carlos Harry de Taza, MA
+    photo: De-Taza_1x1.jpg
+    bio: Harry is a PhD student at the University of the Philippines School of Economics, where he also completed his bachelor’s. His research interests are on labor and monetary economics.
+
+  - name: John Vincent Serrano, MA
+    photo: photo_Serrano.jpg
+    bio: John Vincent Serrano completed a Master of Arts in Economics at the University of the Philippines School of Economics. He earned his Bachelor of Science degree in Management Engineering, with a Minor in Economics, from Ateneo de Manila University.

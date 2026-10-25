@@ -1,0 +1,30 @@
+title: TEMPEST
+tagline: Typhoon Effects on Enterprises in the Philippines
+description: >-
+  The TEMPEST project aims to better understand the economic effects of typhoons.
+  The project will focus on business in the Philippines - the worldʼs most
+  typhoon-prone country.
+url: "https://fcarpena.github.io"
+baseurl: "/tempest"
+lang: en
+
+permalink: /:title/
+timezone: Europe/Oslo
+markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "" }
+    values: { layout: page }
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
