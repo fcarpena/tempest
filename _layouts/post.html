@@ -6,8 +6,8 @@ layout: default
     <h1 class="entry-title">{{ page.title }}</h1>
   </header>
   <div class="entry-content">
-    {% if page.byline %}<p>By {{ page.byline }}</p>{% endif %}
-    <p><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+    {% if page.byline %}<p class="post-byline">By {{ page.byline }}</p>{% endif %}
+    <p class="post-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
     <hr>
     {{ content }}
   </div>
