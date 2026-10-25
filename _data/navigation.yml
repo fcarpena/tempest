@@ -1,6 +1,8 @@
-- title: Project Summary
+- title: Home
+  url: /
+- title: About
   url: /project-summary/
-- title: Project Team
+- title: Team
   url: /project-team/
 - title: News
   url: /project-updates/
