@@ -1,6 +1,6 @@
 ---
 title: Project Summary
-permalink: /project-summary/
+permalink: /about/
 ---
 
 TEMPEST aims to better understand the economic effects of typhoons. The project will focus on business in the Philippines—the worldʼs most typhoon-prone country. Using unique data on Philippine enterprises combined with trade transaction records, we can learn:

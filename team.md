@@ -1,6 +1,6 @@
 ---
 title: Project Team
-permalink: /project-team/
+permalink: /team/
 ---
 
 <!-- Team members are listed in _data/team.yml -->

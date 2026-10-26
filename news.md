@@ -1,6 +1,6 @@
 ---
 title: News
-permalink: /project-updates/
+permalink: /news/
 ---
 
 <!-- This list is generated automatically from the files in _posts/ -->

@@ -15,7 +15,7 @@
       <ul>
         {%- for item in site.data.navigation %}
         {%- assign item_url = item.url | relative_url %}
-        <li><a href="{{ item_url }}"{% if page.url == item.url or item.url == '/project-updates/' and page.layout == 'post' %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
+        <li><a href="{{ item_url }}"{% if page.url == item.url or item.url == '/news/' and page.layout == 'post' %} aria-current="page"{% endif %}>{{ item.title }}</a></li>
         {%- endfor %}
       </ul>
     </nav>
