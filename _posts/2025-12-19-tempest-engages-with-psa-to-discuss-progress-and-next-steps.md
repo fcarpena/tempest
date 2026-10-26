@@ -1,9 +1,9 @@
 ---
 title: TEMPEST Engages with PSA to Discuss Progress and Next Steps
-image: 2025-12-19-PSA.jpg
+image: 2025-12-19-psa-meeting.jpg
 ---
 
-![]({{ '/assets/images/2025-12-19-PSA.jpg' | relative_url }})
+![]({{ '/assets/images/2025-12-19-psa-meeting.jpg' | relative_url }})
 
 {: .caption}
 National Statistician Dennis Mapa (center) with TEMPEST project team members and PSA leadership.

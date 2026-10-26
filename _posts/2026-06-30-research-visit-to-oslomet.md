@@ -1,11 +1,11 @@
 ---
 title: Research Visit to OsloMet
 byline: Maire Magante and Anthony Sabarillo
-image: Maire-and-Anthony-2.jpg
+image: 2026-06-30-oslomet-campus.jpg
 image_position: 47% 83%
 ---
 
-![]({{ '/assets/images/Maire-and-Anthony-2.jpg' | relative_url }})
+![]({{ '/assets/images/2026-06-30-oslomet-campus.jpg' | relative_url }})
 
 {: .caption}
 Assistant Professor Maire Magante (Ateneo de Manila University) and Assistant Professor Anthony Sabarillo (University of the Philippines) at the OsloMet campus.
@@ -16,7 +16,7 @@ During our visit, we also traveled to Sweden to attend the Nordic Annual Environ
 
 We are deeply grateful for the chance to learn, collaborate, and experience new places through TEMPEST. The visit was both professionally enriching and personally meaningful, and we returned home with renewed inspiration, valuable insights, and wonderful memories.
 
-![]({{ '/assets/images/Maire-and-Anthony-1.jpg' | relative_url }})
+![]({{ '/assets/images/2026-06-30-philippine-embassy.jpg' | relative_url }})
 
 {: .caption}
 From Left to Right: Anthony Sabarillo, Maire Magante, Ambassador Enrico Fos, Consul Glenn Obach, Fenella Carpena.

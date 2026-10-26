@@ -1,9 +1,9 @@
 ---
 title: TEMPEST Presented at the Philippine Embassy in Norway
-image: 2025-11-21-PH-Embassy.jpg
+image: 2025-11-21-philippine-embassy.jpg
 ---
 
-![]({{ '/assets/images/2025-11-21-PH-Embassy.jpg' | relative_url }})
+![]({{ '/assets/images/2025-11-21-philippine-embassy.jpg' | relative_url }})
 
 {: .caption}
 From Left to Right: Consul Glenn Obach, Fenella Carpena, Ambassador Enrico Fos, Laurence Go, and Matthew Araneta.

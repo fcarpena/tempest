@@ -1,6 +1,6 @@
 ---
 title: "Op-ed in BusinessWorld: The Case for a Philippine Business ID"
-image: BusinessWorld-screenshot.png
+image: 2026-07-20-businessworld-op-ed.png
 ---
 
 As part of TEMPEST, the research team is building a firm-level panel dataset on Philippine enterprises, linking records across various datasets held by the Philippine Statistics Authority—the country’s national statistics agency. Because no common identifier connects these sources, firms have to be matched by name. This process has taken time, is computationally heavy, and may not be fully reliable.

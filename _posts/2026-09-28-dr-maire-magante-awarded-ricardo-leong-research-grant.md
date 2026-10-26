@@ -1,6 +1,6 @@
 ---
 title: Dr. Maire Magante awarded Ricardo Leong Research Grant
-image: Magante-Leong-1.jpg
+image: 2026-09-28-leong-fellows-forum.jpg
 ---
 
 We are pleased to share that Dr. Maire Carroline T. Magante, TEMPEST project partner and Chair of the Department of Economics at Ateneo de Manila University, has been awarded the Ricardo Leong Grant for Global Area Studies Research for the academic year 2026–2027. She is also the first Leong Institute Fellow from Ateneo’s Department of Economics.
@@ -13,7 +13,7 @@ Dr. Magante joins this year’s recipients of the Ricardo Leong Grants and Leong
 
 Congratulations, Dr. Magante!
 
-![]({{ '/assets/images/Magante-Leong-1.jpg' | relative_url }})
+![]({{ '/assets/images/2026-09-28-leong-fellows-forum.jpg' | relative_url }})
 
 {: .caption}
 Dr. Magante presenting the winning research at the Leong Institute Fellows Forum held on September 28, 2026 at the Leong Hall Auditorium, Ateneo De Manila University.
