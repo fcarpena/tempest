@@ -1,6 +1,6 @@
 ---
 title: "A Year of Research and Collaboration: Ateneo’s Contributions to TEMPEST"
-byline: Maire Magante
+byline: Rainier Mora
 image: 2026-09-28-leong-fellows-ceremony-magante.jpg
 ---
 

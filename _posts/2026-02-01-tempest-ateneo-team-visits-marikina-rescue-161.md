@@ -1,6 +1,6 @@
 ---
 title: TEMPEST Ateneo Team Visits Marikina Rescue 161
-byline: Maire Magante
+byline: Rainier Mora
 image: 2026-02-01-rescue-161-command-center.jpg
 ---
 
